@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=18,18,14,14,21,24&height=250&text=Hye's%20Github!-nl-&fontSize=70&desc=STUDIO%20FRONTIER💫&descSize=30&fontAlign=50&capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=14,14,21,24&height=250&text=Hye's%20Github!-nl-&fontSize=70&desc=STUDIO%20FRONTIER💫&descSize=30&fontAlign=50&capsule_render&animation=fadeIn)
